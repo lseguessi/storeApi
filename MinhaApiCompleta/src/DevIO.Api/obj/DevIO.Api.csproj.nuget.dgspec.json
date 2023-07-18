@@ -1,0 +1,233 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/lucasseguessi/Desktop/Desenvolvedor.io/REST com ASP.NET Core WebApi/MinhaApiCompleta/src/DevIO.Api/DevIO.Api.csproj": {}
+  },
+  "projects": {
+    "/Users/lucasseguessi/Desktop/Desenvolvedor.io/REST com ASP.NET Core WebApi/MinhaApiCompleta/src/DevIO.Api/DevIO.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/lucasseguessi/Desktop/Desenvolvedor.io/REST com ASP.NET Core WebApi/MinhaApiCompleta/src/DevIO.Api/DevIO.Api.csproj",
+        "projectName": "DevIO.Api",
+        "projectPath": "/Users/lucasseguessi/Desktop/Desenvolvedor.io/REST com ASP.NET Core WebApi/MinhaApiCompleta/src/DevIO.Api/DevIO.Api.csproj",
+        "packagesPath": "/Users/lucasseguessi/.nuget/packages/",
+        "outputPath": "/Users/lucasseguessi/Desktop/Desenvolvedor.io/REST com ASP.NET Core WebApi/MinhaApiCompleta/src/DevIO.Api/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/lucasseguessi/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "/usr/local/share/dotnet/sdk/7.0.306/Sdks/Microsoft.NET.Sdk.Web/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/lucasseguessi/Desktop/Desenvolvedor.io/REST com ASP.NET Core WebApi/MinhaApiCompleta/src/DevIO.Business/DevIO.Business.csproj": {
+                "projectPath": "/Users/lucasseguessi/Desktop/Desenvolvedor.io/REST com ASP.NET Core WebApi/MinhaApiCompleta/src/DevIO.Business/DevIO.Business.csproj"
+              },
+              "/Users/lucasseguessi/Desktop/Desenvolvedor.io/REST com ASP.NET Core WebApi/MinhaApiCompleta/src/DevIO.Data/DevIO.Data.csproj": {
+                "projectPath": "/Users/lucasseguessi/Desktop/Desenvolvedor.io/REST com ASP.NET Core WebApi/MinhaApiCompleta/src/DevIO.Data/DevIO.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.3, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.306/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/lucasseguessi/Desktop/Desenvolvedor.io/REST com ASP.NET Core WebApi/MinhaApiCompleta/src/DevIO.Business/DevIO.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/lucasseguessi/Desktop/Desenvolvedor.io/REST com ASP.NET Core WebApi/MinhaApiCompleta/src/DevIO.Business/DevIO.Business.csproj",
+        "projectName": "DevIO.Business",
+        "projectPath": "/Users/lucasseguessi/Desktop/Desenvolvedor.io/REST com ASP.NET Core WebApi/MinhaApiCompleta/src/DevIO.Business/DevIO.Business.csproj",
+        "packagesPath": "/Users/lucasseguessi/.nuget/packages/",
+        "outputPath": "/Users/lucasseguessi/Desktop/Desenvolvedor.io/REST com ASP.NET Core WebApi/MinhaApiCompleta/src/DevIO.Business/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/lucasseguessi/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[10.4.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.306/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/lucasseguessi/Desktop/Desenvolvedor.io/REST com ASP.NET Core WebApi/MinhaApiCompleta/src/DevIO.Data/DevIO.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/lucasseguessi/Desktop/Desenvolvedor.io/REST com ASP.NET Core WebApi/MinhaApiCompleta/src/DevIO.Data/DevIO.Data.csproj",
+        "projectName": "DevIO.Data",
+        "projectPath": "/Users/lucasseguessi/Desktop/Desenvolvedor.io/REST com ASP.NET Core WebApi/MinhaApiCompleta/src/DevIO.Data/DevIO.Data.csproj",
+        "packagesPath": "/Users/lucasseguessi/.nuget/packages/",
+        "outputPath": "/Users/lucasseguessi/Desktop/Desenvolvedor.io/REST com ASP.NET Core WebApi/MinhaApiCompleta/src/DevIO.Data/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/lucasseguessi/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/lucasseguessi/Desktop/Desenvolvedor.io/REST com ASP.NET Core WebApi/MinhaApiCompleta/src/DevIO.Business/DevIO.Business.csproj": {
+                "projectPath": "/Users/lucasseguessi/Desktop/Desenvolvedor.io/REST com ASP.NET Core WebApi/MinhaApiCompleta/src/DevIO.Business/DevIO.Business.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[6.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.306/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+/Users/lucasseguessi/Desktop/Desenvolvedor.io/REST com ASP.NET Core WebApi/MinhaApiCompleta/src/DevIO.Business/bin/Debug/net6.0/DevIO.Business.deps.json
+/Users/lucasseguessi/Desktop/Desenvolvedor.io/REST com ASP.NET Core WebApi/MinhaApiCompleta/src/DevIO.Business/bin/Debug/net6.0/DevIO.Business.dll
+/Users/lucasseguessi/Desktop/Desenvolvedor.io/REST com ASP.NET Core WebApi/MinhaApiCompleta/src/DevIO.Business/bin/Debug/net6.0/DevIO.Business.pdb
+/Users/lucasseguessi/Desktop/Desenvolvedor.io/REST com ASP.NET Core WebApi/MinhaApiCompleta/src/DevIO.Business/obj/Debug/net6.0/DevIO.Business.csproj.AssemblyReference.cache
+/Users/lucasseguessi/Desktop/Desenvolvedor.io/REST com ASP.NET Core WebApi/MinhaApiCompleta/src/DevIO.Business/obj/Debug/net6.0/DevIO.Business.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lucasseguessi/Desktop/Desenvolvedor.io/REST com ASP.NET Core WebApi/MinhaApiCompleta/src/DevIO.Business/obj/Debug/net6.0/DevIO.Business.AssemblyInfoInputs.cache
+/Users/lucasseguessi/Desktop/Desenvolvedor.io/REST com ASP.NET Core WebApi/MinhaApiCompleta/src/DevIO.Business/obj/Debug/net6.0/DevIO.Business.AssemblyInfo.cs
+/Users/lucasseguessi/Desktop/Desenvolvedor.io/REST com ASP.NET Core WebApi/MinhaApiCompleta/src/DevIO.Business/obj/Debug/net6.0/DevIO.Business.csproj.CoreCompileInputs.cache
+/Users/lucasseguessi/Desktop/Desenvolvedor.io/REST com ASP.NET Core WebApi/MinhaApiCompleta/src/DevIO.Business/obj/Debug/net6.0/DevIO.Business.dll
+/Users/lucasseguessi/Desktop/Desenvolvedor.io/REST com ASP.NET Core WebApi/MinhaApiCompleta/src/DevIO.Business/obj/Debug/net6.0/refint/DevIO.Business.dll
+/Users/lucasseguessi/Desktop/Desenvolvedor.io/REST com ASP.NET Core WebApi/MinhaApiCompleta/src/DevIO.Business/obj/Debug/net6.0/DevIO.Business.pdb
+/Users/lucasseguessi/Desktop/Desenvolvedor.io/REST com ASP.NET Core WebApi/MinhaApiCompleta/src/DevIO.Business/obj/Debug/net6.0/ref/DevIO.Business.dll
+/Users/lucasseguessi/Desktop/Desenvolvedor.io/REST com ASP.NET Core WebApi/MinhaApiCompleta/src/DevIO.Business/bin/Debug/net6.0/DevIO.Business.runtimeconfig.json
+/Users/lucasseguessi/Desktop/Desenvolvedor.io/REST com ASP.NET Core WebApi/MinhaApiCompleta/src/DevIO.Business/obj/Debug/net6.0/DevIO.Business.genruntimeconfig.cache
