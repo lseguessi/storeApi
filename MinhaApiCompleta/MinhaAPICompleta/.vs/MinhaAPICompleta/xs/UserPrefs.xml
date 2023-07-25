@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{08A30C8E-C2FA-4AC5-BE74-4DF355841917}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../src/DevIO.Api/Controllers/FornecedoresController.cs">
+    <Files>
+      <File FileName="../src/DevIO.Api/Controllers/MainController.cs" Line="57" Column="10" />
+      <File FileName="../src/DevIO.Api/Controllers/FornecedoresController.cs" Line="4" Column="21" />
+      <File FileName="../src/DevIO.Api/ViewModels/FornecedorViewModel.cs" Line="22" Column="50" />
+      <File FileName="../src/DevIO.Api/appsettings.json" Line="12" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MinhaAPICompleta" expanded="True">
+            <Node name="DevIO.Api" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.DevIO.Api PreferredExecutionTarget="/Applications/Arc.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
